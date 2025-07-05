@@ -1,7 +1,7 @@
 # Python-8.Proje
 Modüller ve Paketler
 
-Not:Kodlar adlı dosya farklı bir sanal ortam için
+Not:"Kodlar" adlı dosya farklı bir sanal ortam için
 
 Terminale Bunu Yazın
 python -m venv env
